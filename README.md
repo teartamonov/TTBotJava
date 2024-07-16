@@ -1,20 +1,9 @@
-## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
+# Overview
 
-## Building
-...
-
-## Troubleshooting
-...
+ Repository for my future project.
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
-
-## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
-
-## Acknowledgments
-...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
